@@ -1,2 +1,2 @@
 # shelly_generic_notification
-This JS script generates a uniformed notification message of the last mqtt message.
+This script is written to run on a shelly device only. If a mqtt message is send, a more generic version is formed and send by mqtt.
